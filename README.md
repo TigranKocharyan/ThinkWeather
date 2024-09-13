@@ -78,7 +78,4 @@ Weather: ☀️ Clear (clear sky)
 - Ensure your API key is valid and not expired.
 - The script uses caching to avoid redundant API calls within a 10-minute period.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
